@@ -1,3 +1,3 @@
-./setup_postfix.sh "이메일" "패스워드" "smtp도메인" "포트번호"
-(에시)
-./setup_postfix.sh "admin@cudo.co.kr" "1111" "smtps.hiworks.com" "465"
+./setup_postfix.sh '이메일' '패스워드' 'smtp도메인' '포트번호' '도메인'
+(예시)
+./setup_postfix.sh 'admin@cudo.co.kr' '1111' 'smtps.hiworks.com' '465' 'pec.cudo.co.kr'
