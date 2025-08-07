@@ -10,7 +10,11 @@ TLS 암호화, SASL 인증, 인증서 생성 등 복잡한 과정을 자동화�
 ```bash
 ./setup_postfix.sh '이메일' '비밀번호' 'SMTP도메인' '포트번호' '도메인'
 
-## 📌 사용 예시
+
+---
+## 🔧 사용 예시
+
+복사해서 그대로 사용하세요 👇
 
 ```bash
 ./setup_postfix.sh 'admin@cudo.co.kr' '1111' 'smtps.hiworks.com' '465' 'pce.cudo.co.kr'
